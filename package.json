@@ -44,5 +44,9 @@
     "protractor": "~7.0.0",
     "ts-node": "~10.9.0",
     "typescript": "~5.2"
+  },
+  "engines": {
+    "node": "18.17.0",
+    "npm": "9.6.7"
   }
 }
